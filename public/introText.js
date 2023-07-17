@@ -1,0 +1,2 @@
+export const introText = 'I graduated from the University of Technology, Jamaica -  Class of 2011 with a BSc(Hons) in Information Technology and Computer Science, with a specialization in Data Communication. I am currently the Systems Analyst Coordinator at the General Post Office.'
+export const secondaryText = "(This is a sample website - you’ll be building a site like this on {' '})"
