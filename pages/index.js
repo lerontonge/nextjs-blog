@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> {introText}</p>
-        <p>{secondaryText}<a href="https://nextjs.org/learn">our Next.js tutorial</a></p>
+        <p>{secondaryText}</p>
       </section>
     </Layout>
   );

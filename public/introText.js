@@ -1,2 +1,2 @@
-export const introText = 'I graduated from the University of Technology, Jamaica -  Class of 2011 with a BSc(Hons) in Information Technology and Computer Science, with a specialization in Data Communication. I am currently the Systems Analyst Coordinator at the General Post Office.'
-export const secondaryText = "(This is a sample website - you’ll be building a site like this on {' '})"
+export const introText = 'I graduated from the University of Technology, Jamaica - Class of 2011 with a BSc(Hons) in Information Technology and Computer Science, with a specialization in Data Communication. My current role is Systems Analyst Coordinator.'
+export const secondaryText = "This is a simple website showcasing my webdev skills. This site was coded by me, using Next JS, a React framework."

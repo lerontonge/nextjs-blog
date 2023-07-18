@@ -10,6 +10,7 @@ body {
 
 * {
   box-sizing: border-box;
+  outline: dotted black 1px;
 }
 
 a {
@@ -24,4 +25,8 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+p{
+  text-align: justify;
 }
